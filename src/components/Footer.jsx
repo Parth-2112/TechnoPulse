@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
 
         <div>
-            <h1>TechStar</h1>
+            <h1>TechnoPulse.</h1>
             <p>@all rights reserved</p>
         </div>
 

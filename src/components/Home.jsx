@@ -12,8 +12,8 @@ const Home = () => {
     <>
         <div className="home" id="home">
             <main>
-                <h1>TechStar</h1>
-                <p>Solution to all your problems</p>
+                <h1>TechnoPulse.</h1>
+                <p>Solution to all your Tech problems</p>
             </main>
         </div>
 
